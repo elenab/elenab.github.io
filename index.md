@@ -9,6 +9,7 @@ Currently I am working at Element AI, in an applied Machine Learning team that a
 ### Experience
 
 I have a B.Sc. in Mathematics and have been learning to code since 1995.
+
 I'm a professional developer in the tech industry since 2006, working and wearing multiple hats from **C++ Programmer, Web Developer, Team Lead, iOS Mobile Developer** and now **full stack AI Developer**.
 
 ### Certifications
