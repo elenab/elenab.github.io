@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/elenab/elenab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a senior full stack software developer with a DevOps mindset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In recent years, my focus has been around Machine Learning Engineering, and I am passionate about creating solutions with great impact.
 
-### Markdown
+Currently I am working at Element AI, in an applied Machine Learning team that aims to solve challenging real-world problems, working in unexplored areas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
+I have a B.Sc. in Mathematics and have been learning to code since 1995.
+I'm a professional developer in the tech industry since 2006, working and wearing multiple hats from **C++ Programmer, Web Developer, Team Lead, iOS Mobile Developer** and now **full stack AI Developer**.
 
-# Header 1
-## Header 2
-### Header 3
+### Certifications
+Dozens of certifications and courses on Udacity, Udemy, Coursera and (old)Lynda.
+To name a few:
+- Deep Learning Nanodegree Program, Udacity, Dec. 2018
+- AWS Certified Solutions Architect - Associate 2018, Udemy
+- Machine Learning by Stanford University on Coursera, Mar. 2017
 
-- Bulleted
-- List
+### Volunteer Experience
 
-1. Numbered
-2. List
+#### Conference Volunteer at ConFoo.ca 2017
+Stationed at the registration desk, in the speaker sessions and around the conference venue to help with attendee requests. 
+Confoo is a Montreal-based software development conference.
 
-**Bold** and _Italic_ and `Code` text
+#### Mentor at MariHacks 2018.
+Technical and/or non-technical consultant for teams. 
 
-[Link](url) and ![Image](src)
-```
+MariHacks, the first CEGEP and high school hackathon, was a day-long event that brought together over 100 developers and technology enthusiasts. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elenab/elenab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Want to get in touch? Check out my [GitHub profile](https://github.com/elenab/) or [LinkedIn](https://www.linkedin.com/in/elenabusila/).
