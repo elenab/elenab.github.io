@@ -18,10 +18,8 @@ To name a few:
 - Machine Learning by Stanford University on Coursera, Mar. 2017
 
 ### Volunteer Experience
-- Conference Volunteer at ConFoo.ca 2017
-Stationed at the registration desk, in the speaker sessions and around the conference venue to help with attendee requests. 
-- Mentor at MariHacks 2018.
-Technical and/or non-technical consultant for teams. 
+- Conference Volunteer at ConFoo.ca 2017: Registration desk, in the speaker sessions and around the conference venue. 
+- Mentor at MariHacks 2018: Technical consultant for teams. 
 
 ### Contact
 Want to get in touch? Check out my [GitHub profile](https://github.com/elenab/) or [LinkedIn](https://www.linkedin.com/in/elenabusila/).
