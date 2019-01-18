@@ -11,14 +11,14 @@ I have a B.Sc. in Mathematics and have been learning to code since 1995.
 I'm a professional developer in the tech industry since 2006, working and wearing multiple hats from C++ Programmer, Web Developer, Team Lead, iOS Mobile Developer and now full stack AI Developer.
 
 ### Certifications
-Dozens of certifications and courses on Udacity, Udemy, Coursera and (old)Lynda.
+Dozens of certifications and courses on Udacity, Udemy, Coursera and Lynda.
 To name a few:
 - Deep Learning Nanodegree Program, Udacity, Dec. 2018
 - AWS Certified Solutions Architect - Associate 2018, Udemy
 - Machine Learning by Stanford University on Coursera, Mar. 2017
 
 ### Volunteer Experience
-- Conference Volunteer at ConFoo.ca 2017: Registration desk, in the speaker sessions and around the conference venue. 
+- Conference Volunteer at ConFoo.ca 2017: Stationed at the registration desk, in the speaker sessions and around the conference venue. 
 - Mentor at MariHacks 2018: Technical consultant for teams. 
 
 ### Contact
