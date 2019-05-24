@@ -3,7 +3,7 @@ I am a senior full stack software developer with a DevOps mindset.
 
 In recent years, my focus has been around Machine Learning Engineering, and I am passionate about creating solutions with great impact.
 
-Currently I am working at Element AI, in an applied Machine Learning team that aims to solve challenging real-world problems, working in unexplored areas.
+Currently I am working at Element AI, in an applied Machine Learning team that aims to solve challenging real world problems.
 
 ### Experience
 I have a B.Sc. in Mathematics and have been learning to code since 1995.
