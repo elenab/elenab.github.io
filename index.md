@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Page
 I am a Senior Full Stack Software Developer with a DevOps mindset.
 
-In recent years, my focus has been around Machine Learning Engineering and I am passionate about creating solutions with great impact.
+In recent years my focus has been around Machine Learning Engineering and I am passionate about creating solutions with great impact.
 
 Currently I am working at Element AI in an applied Machine Learning team that aims to solve challenging real world problems.
 
