@@ -1,14 +1,14 @@
 ## Welcome to my GitHub Page
-I am a Senior Full Stack Software Developer with a DevOps mindset.
+I am a Senior Full Stack Software Developer with an AI focus and DevOps mindset.
 
 In recent years my focus has been around Machine Learning Engineering and I am passionate about creating solutions with great impact.
 
-Currently I am working at Element AI in an applied Machine Learning team that aims to solve challenging real world problems.
+Currently I am working in an Applied Machine Learning team that aims to solve challenging real world problems.
 
 ### Experience
 I have a B.Sc. in Mathematics and have been learning to code since 1995.
 
-I'm a professional developer in the tech industry since 2006, working and wearing multiple hats from C++ Programmer, Web Developer, Team Lead, iOS Mobile Developer and now full stack AI Developer.
+I'm a professional developer in the tech industry since 2006, working and wearing multiple hats from C++ Programmer, Web Developer, Team Lead, iOS Mobile Developer, full stack AI Developer and Staff Machine Learning Engineer.
 
 ### Certifications
 Dozens of certifications and courses on Udacity, Udemy, Coursera and Lynda.
